@@ -68,7 +68,9 @@
     <AndroidResource Include="Resources\mipmap-xxhdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\raw\chupa_manga.mp3" />
+  </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\raw\cade_meu_fi.mp3" />
   </ItemGroup>
@@ -77,6 +79,12 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\raw\uiuiuiui.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\raw\risada.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\raw\taca_o_pal.mp3" />
   </ItemGroup>
   <Import Project="..\CotecCelebrities\CotecCelebrities.projitems" Label="Shared" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
