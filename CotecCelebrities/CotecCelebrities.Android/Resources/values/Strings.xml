@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">CotecCelebrities.Droid</string>
+
+  <string name="jose1">Ui ui ui!</string>
+  <string name="jose2">Já já!</string>
+  <string name="jose3">Cade meu fí!</string>
+</resources>
