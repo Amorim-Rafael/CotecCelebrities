@@ -105,10 +105,19 @@ namespace CotecCelebrities.Droid
 			public const int cade_meu_fi = 2130968576;
 			
 			// aapt resource value: 0x7f040001
-			public const int jaja = 2130968577;
+			public const int chupa_manga = 2130968577;
 			
 			// aapt resource value: 0x7f040002
-			public const int uiuiuiui = 2130968578;
+			public const int jaja = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int risada = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int taca_o_pal = 2130968580;
+			
+			// aapt resource value: 0x7f040005
+			public const int uiuiuiui = 2130968581;
 			
 			static Raw()
 			{
