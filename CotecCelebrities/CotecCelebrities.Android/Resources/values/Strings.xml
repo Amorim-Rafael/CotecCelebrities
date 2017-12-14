@@ -3,7 +3,11 @@
 	<string name="hello">Hello World, Click Me!</string>
 	<string name="app_name">CotecCelebrities.Droid</string>
 
-  <string name="jose1">Ui ui ui!</string>
-  <string name="jose2">Já já!</string>
-  <string name="jose3">Cade meu fí!</string>
+  <string name="jose1">José - Ui ui ui!</string>
+  <string name="jose2">José - Já já!</string>
+  <string name="jose3">José - Cade meu fí!</string>
+
+  <string name="hector1">Hector - Chupa manga!</string>
+  <string name="hector2">Hector - Hahahahaha!</string>
+  <string name="hector3">Hector - Taca o pal!</string>
 </resources>

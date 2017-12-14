@@ -44,17 +44,23 @@ namespace CotecCelebrities.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060001
-			public const int btnJose1 = 2131099649;
-			
-			// aapt resource value: 0x7f060002
-			public const int btnJose2 = 2131099650;
-			
 			// aapt resource value: 0x7f060003
-			public const int btnJose3 = 2131099651;
+			public const int btnHector1 = 2131099651;
+			
+			// aapt resource value: 0x7f060004
+			public const int btnHector2 = 2131099652;
+			
+			// aapt resource value: 0x7f060005
+			public const int btnHector3 = 2131099653;
 			
 			// aapt resource value: 0x7f060000
-			public const int myButton = 2131099648;
+			public const int btnJose1 = 2131099648;
+			
+			// aapt resource value: 0x7f060001
+			public const int btnJose2 = 2131099649;
+			
+			// aapt resource value: 0x7f060002
+			public const int btnJose3 = 2131099650;
 			
 			static Id()
 			{
@@ -134,6 +140,15 @@ namespace CotecCelebrities.Droid
 			
 			// aapt resource value: 0x7f050001
 			public const int app_name = 2131034113;
+			
+			// aapt resource value: 0x7f050005
+			public const int hector1 = 2131034117;
+			
+			// aapt resource value: 0x7f050006
+			public const int hector2 = 2131034118;
+			
+			// aapt resource value: 0x7f050007
+			public const int hector3 = 2131034119;
 			
 			// aapt resource value: 0x7f050000
 			public const int hello = 2131034112;
